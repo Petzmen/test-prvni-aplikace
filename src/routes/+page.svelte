@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="cs">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>To-Do List</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-
-<body class="bg-blue-900 flex justify-center items-center min-h-screen">
 
     <section class="bg-white w-80 p-6 rounded-xl shadow-lg">
         <h1 class="text-2xl font-semibold text-center text-gray-800 mb-4">
@@ -40,8 +29,5 @@
         </ul>
 
     </section>
-
-</body>
-</html>
 
 
